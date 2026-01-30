@@ -1,6 +1,6 @@
 public class BankService {
 
-    //Nested class (can be public or private, doesn't matter for functionality)
+    // Nested class (can be public or private, doesn't matter for functionality)
     static class BankAccount {
         private double balance;
 
